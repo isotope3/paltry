@@ -1,6 +1,6 @@
 {
   "name": "@isotope3/paltry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Little or nothing",
   "main": "index.js",
   "type": "module",
