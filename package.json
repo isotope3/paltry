@@ -1,0 +1,23 @@
+{
+  "name": "paltry",
+  "version": "1.0.0",
+  "description": "Little or nothing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isotope3/paltry.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "Prem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isotope3/paltry/issues"
+  },
+  "homepage": "https://github.com/isotope3/paltry#readme"
+}
